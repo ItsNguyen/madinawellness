@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Madina Wellness</title>
-	<atom:link href="/https://itsnguyen.github.io/madinawellness/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://itsnguyen.github.io/madinawellness</link>
+	<atom:link href="https://itsnguyen.github.io/madinawellness/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://itsnguyen.github.io/madinawellness</link>
 	<description>Spa and Wellness</description>
 	<lastBuildDate>Mon, 28 Mar 2022 03:24:16 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 <image>
-	<url>/https://itsnguyen.github.io/madinawellness/wp-content/uploads/2022/04/cropped-Madina-4-32x32.png</url>
+	<url>https://itsnguyen.github.io/madinawellness/wp-content/uploads/2022/04/cropped-Madina-4-32x32.png</url>
 	<title>Uncategorized &#8211; Madina Wellness</title>
-	<link>/https://itsnguyen.github.io/madinawellness</link>
+	<link>https://itsnguyen.github.io/madinawellness</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/https://itsnguyen.github.io/madinawellness/hello-world/</link>
-					<comments>/https://itsnguyen.github.io/madinawellness/hello-world/#comments</comments>
+		<link>https://itsnguyen.github.io/madinawellness/hello-world/</link>
+					<comments>https://itsnguyen.github.io/madinawellness/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 28 Mar 2022 03:24:16 +0000</pubDate>
@@ -42,7 +42,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://itsnguyen.github.io/madinawellness/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://itsnguyen.github.io/madinawellness/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

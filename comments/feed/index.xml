@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Madina Wellness	</title>
-	<atom:link href="/https://itsnguyen.github.io/madinawellness/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://itsnguyen.github.io/madinawellness</link>
+	<atom:link href="https://itsnguyen.github.io/madinawellness/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://itsnguyen.github.io/madinawellness</link>
 	<description>Spa and Wellness</description>
 	<lastBuildDate>Mon, 28 Mar 2022 03:24:16 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>/https://itsnguyen.github.io/madinawellness/hello-world/#comment-1</link>
+		<link>https://itsnguyen.github.io/madinawellness/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Mon, 28 Mar 2022 03:24:16 +0000</pubDate>

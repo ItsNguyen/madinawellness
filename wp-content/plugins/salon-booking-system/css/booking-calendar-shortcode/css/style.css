@@ -152,22 +152,22 @@
 
 @font-face {
   font-family: "Avenir-Black";
-  src: url("/https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/Avenir-Black/Avenir-Black.eot#iefix")
+  src: url("https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/Avenir-Black/Avenir-Black.eot#iefix")
       format("embedded-opentype"),
-    url("/https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/Avenir-Black/Avenir-Black.woff") format("woff"),
-    url("/https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/Avenir-Black/Avenir-Black.ttf") format("truetype"),
-    url("/https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/Avenir-Black/Avenir-Black.svg#Avenir-Black") format("svg");
+    url("https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/Avenir-Black/Avenir-Black.woff") format("woff"),
+    url("https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/Avenir-Black/Avenir-Black.ttf") format("truetype"),
+    url("https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/Avenir-Black/Avenir-Black.svg#Avenir-Black") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "AvenirLT-Medium";
-  src: url("/https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/AvenirLT-Medium/AvenirLT-Medium.eot#iefix")
+  src: url("https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/AvenirLT-Medium/AvenirLT-Medium.eot#iefix")
       format("embedded-opentype"),
-    url("/https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/AvenirLT-Medium/AvenirLT-Medium.woff") format("woff"),
-    url("/https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/AvenirLT-Medium/AvenirLT-Medium.ttf") format("truetype"),
-    url("/https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/AvenirLT-Medium/AvenirLT-Medium.svg#AvenirLT-Medium")
+    url("https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/AvenirLT-Medium/AvenirLT-Medium.woff") format("woff"),
+    url("https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/AvenirLT-Medium/AvenirLT-Medium.ttf") format("truetype"),
+    url("https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/AvenirLT-Medium/AvenirLT-Medium.svg#AvenirLT-Medium")
       format("svg");
   font-weight: normal;
   font-style: normal;
@@ -175,11 +175,11 @@
 
 @font-face {
   font-family: "AvenirLT-Roman";
-  src: url("/https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/AvenirLT-Roman/AvenirLT-Roman.eot#iefix")
+  src: url("https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/AvenirLT-Roman/AvenirLT-Roman.eot#iefix")
       format("embedded-opentype"),
-    url("/https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/AvenirLT-Roman/AvenirLT-Roman.woff") format("woff"),
-    url("/https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/AvenirLT-Roman/AvenirLT-Roman.ttf") format("truetype"),
-    url("/https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/AvenirLT-Roman/AvenirLT-Roman.svg#AvenirLT-Roman")
+    url("https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/AvenirLT-Roman/AvenirLT-Roman.woff") format("woff"),
+    url("https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/AvenirLT-Roman/AvenirLT-Roman.ttf") format("truetype"),
+    url("https://itsnguyen.github.io/madinawellness/wp-content/plugins/salon-booking-system/css/booking-calendar-shortcode/fonts/AvenirLT-Roman/AvenirLT-Roman.svg#AvenirLT-Roman")
       format("svg");
   font-weight: normal;
   font-style: normal;
